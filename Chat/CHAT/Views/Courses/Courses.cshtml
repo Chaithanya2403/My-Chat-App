@@ -1,0 +1,76 @@
+﻿@model IEnumerable<BussinessLayer.CourseDetail>
+
+@{
+    ViewBag.Title = "Manage";
+}
+<div class="row">
+    <div class="col-md-12 col-sm-12 col-xs-12">
+        <div class="feature_header text-center">
+            <h3 class="feature_title"><b>Course Details</b></h3>                     
+            <div class="divider"></div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="contact_full">
+        <div class="col-md-12">
+            <table class="table table-bordered">
+                <tr>
+                    <th>
+                        Course
+                    </th>
+                    <th>
+                        Domain
+                    </th>
+                    <th>
+                        Offline/Online
+                    </th>
+                    <th>
+                        Duration
+                    </th>
+                    <th>
+                        Course Fee
+                    </th>
+                    <th>
+                        Trainer
+                    </th>
+
+                    @*<th></th>*@
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CourseName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Domain)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Type)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Duration)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Fee)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TrainerName)
+                        </td>
+
+                        @*<td>
+                        @Html.ActionLink("Edit", "Edit", new { id=item.CourseId }) |
+                        @Html.ActionLink("Details", "Details", new { id=item.CourseId }) |
+                        @Html.ActionLink("Delete", "Delete", new { id=item.CourseId })
+                    </td>*@
+                    </tr>
+                }
+
+            </table>
+        </div>
+
+    </div>
+</div>
+

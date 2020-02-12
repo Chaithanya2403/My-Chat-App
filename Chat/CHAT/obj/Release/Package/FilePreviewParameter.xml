@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Chatwebapi" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^G:\\Srichid_Digital_Office\\Chat\\SRICHIDACADEMY\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^G:\\Srichid_Digital_Office\\Chat\\SRICHIDACADEMY\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="DefaultConnection_ConnectionString" tags="">
+    <parameterEntry kind="XmlFile" scope="G:\\Srichid_Digital_Office\\Chat\\SRICHIDACADEMY\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="SRICHID.ACADEMY-Web.config Connection String" description="" value="SRICHID.ACADEMY_ConnectionString" tags="">
+    <parameterEntry kind="XmlFile" scope="G:\\Srichid_Digital_Office\\Chat\\SRICHIDACADEMY\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SRICHID.ACADEMY']/@connectionString" />
+  </parameter>
+  <parameter name="ChatEntities-Web.config Connection String" description="ChatEntities Connection String used in web.config by the application to access the database." value="metadata=res://*/Model1.csdl|res://*/Model1.ssdl|res://*/Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=DESKTOP-EMA8J67\SQLEXPRESS;initial catalog=Chat;user id=sa;password=sa@123;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="G:\\Srichid_Digital_Office\\Chat\\SRICHIDACADEMY\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ChatEntities']/@connectionString" />
+  </parameter>
+</parameters>

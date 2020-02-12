@@ -1,0 +1,369 @@
+E:\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.dll.config
+E:\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.dll
+E:\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.pdb
+E:\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.dll
+E:\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.xml
+E:\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\SRICHIDACADEMY\BussinessLayer\obj\Debug\BussinessLayer.csprojResolveAssemblyReference.cache
+E:\SRICHIDACADEMY\BussinessLayer\obj\Debug\BussinessLayer.dll
+E:\SRICHIDACADEMY\BussinessLayer\obj\Debug\BussinessLayer.pdb
+D:\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.dll.config
+D:\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.dll
+D:\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.pdb
+D:\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.dll
+D:\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.xml
+D:\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\SRICHIDACADEMY\BussinessLayer\obj\Debug\BussinessLayer.dll
+D:\SRICHIDACADEMY\BussinessLayer\obj\Debug\BussinessLayer.pdb
+F:\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.dll.config
+F:\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.dll
+F:\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.pdb
+F:\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.dll
+F:\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.xml
+F:\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\SRICHIDACADEMY\BussinessLayer\obj\Debug\BussinessLayer.dll
+F:\SRICHIDACADEMY\BussinessLayer\obj\Debug\BussinessLayer.pdb
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.dll.config
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.pdb
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.Security.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Newtonsoft.Json.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Owin.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.Security.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Newtonsoft.Json.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\obj\Debug\BussinessLayer.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\obj\Debug\BussinessLayer.pdb
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\obj\Debug\BussinessLayer.csprojResolveAssemblyReference.cache
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.dll.config
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.pdb
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.Security.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Newtonsoft.Json.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Owin.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.Security.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Newtonsoft.Json.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\obj\Debug\BussinessLayer.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\obj\Debug\BussinessLayer.pdb
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.dll.config
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.pdb
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.Security.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Owin.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.Security.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\obj\Debug\BussinessLayer.csprojResolveAssemblyReference.cache
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\obj\Debug\BussinessLayer.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\obj\Debug\BussinessLayer.pdb
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.dll.config
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.pdb
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.Security.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Newtonsoft.Json.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Owin.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.Security.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Newtonsoft.Json.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\obj\Debug\BussinessLayer.csprojResolveAssemblyReference.cache
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\obj\Debug\BussinessLayer.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\obj\Debug\BussinessLayer.pdb
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.dll.config
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.pdb
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.Security.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Owin.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.Security.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\obj\Debug\BussinessLayer.csprojResolveAssemblyReference.cache
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\obj\Debug\BussinessLayer.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\obj\Debug\BussinessLayer.pdb
+F:\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.dll.config
+F:\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\BussinessLayer.pdb
+F:\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.Security.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Newtonsoft.Json.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Owin.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Microsoft.Owin.Security.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\bin\Debug\Newtonsoft.Json.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\obj\Debug\BussinessLayer.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\BussinessLayer\obj\Debug\BussinessLayer.pdb
+D:\New Digital Office For Demo\Chat_Application\Chat\BussinessLayer\bin\Debug\BussinessLayer.dll.config
+D:\New Digital Office For Demo\Chat_Application\Chat\BussinessLayer\bin\Debug\BussinessLayer.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\BussinessLayer\bin\Debug\BussinessLayer.pdb
+D:\New Digital Office For Demo\Chat_Application\Chat\BussinessLayer\bin\Debug\EntityFramework.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\BussinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Security.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\BussinessLayer\bin\Debug\Newtonsoft.Json.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\BussinessLayer\bin\Debug\Owin.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\BussinessLayer\bin\Debug\EntityFramework.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\BussinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Security.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\BussinessLayer\bin\Debug\Newtonsoft.Json.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\BussinessLayer\obj\Debug\BussinessLayer.csprojResolveAssemblyReference.cache
+D:\New Digital Office For Demo\Chat_Application\Chat\BussinessLayer\obj\Debug\BussinessLayer.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\BussinessLayer\obj\Debug\BussinessLayer.pdb
+F:\NewDigitalOfficeV2\Chat\BussinessLayer\bin\Debug\BussinessLayer.dll.config
+F:\NewDigitalOfficeV2\Chat\BussinessLayer\bin\Debug\BussinessLayer.dll
+F:\NewDigitalOfficeV2\Chat\BussinessLayer\bin\Debug\BussinessLayer.pdb
+F:\NewDigitalOfficeV2\Chat\BussinessLayer\bin\Debug\EntityFramework.dll
+F:\NewDigitalOfficeV2\Chat\BussinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\NewDigitalOfficeV2\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+F:\NewDigitalOfficeV2\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\NewDigitalOfficeV2\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.dll
+F:\NewDigitalOfficeV2\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+F:\NewDigitalOfficeV2\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Security.dll
+F:\NewDigitalOfficeV2\Chat\BussinessLayer\bin\Debug\Newtonsoft.Json.dll
+F:\NewDigitalOfficeV2\Chat\BussinessLayer\bin\Debug\Owin.dll
+F:\NewDigitalOfficeV2\Chat\BussinessLayer\bin\Debug\EntityFramework.xml
+F:\NewDigitalOfficeV2\Chat\BussinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\NewDigitalOfficeV2\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+F:\NewDigitalOfficeV2\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\NewDigitalOfficeV2\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.xml
+F:\NewDigitalOfficeV2\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+F:\NewDigitalOfficeV2\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Security.xml
+F:\NewDigitalOfficeV2\Chat\BussinessLayer\bin\Debug\Newtonsoft.Json.xml
+F:\NewDigitalOfficeV2\Chat\BussinessLayer\obj\Debug\BussinessLayer.dll
+F:\NewDigitalOfficeV2\Chat\BussinessLayer\obj\Debug\BussinessLayer.pdb
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\BussinessLayer\obj\Debug\BussinessLayer.csprojResolveAssemblyReference.cache
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\BussinessLayer\bin\Debug\BussinessLayer.dll.config
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\BussinessLayer\bin\Debug\BussinessLayer.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\BussinessLayer\bin\Debug\BussinessLayer.pdb
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\BussinessLayer\bin\Debug\EntityFramework.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\BussinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Security.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\BussinessLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\BussinessLayer\bin\Debug\Owin.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\BussinessLayer\bin\Debug\EntityFramework.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\BussinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Security.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\BussinessLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\BussinessLayer\obj\Debug\BussinessLayer.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\BussinessLayer\obj\Debug\BussinessLayer.pdb
+G:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\BussinessLayer.dll.config
+G:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\BussinessLayer.dll
+G:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\BussinessLayer.pdb
+G:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\EntityFramework.dll
+G:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+G:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+G:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+G:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.dll
+G:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+G:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Security.dll
+G:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Newtonsoft.Json.dll
+G:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Owin.dll
+G:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\EntityFramework.xml
+G:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+G:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+G:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+G:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.xml
+G:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+G:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Security.xml
+G:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Newtonsoft.Json.xml
+G:\Srichid_Digital_Office\Chat\BussinessLayer\obj\Debug\BussinessLayer.csprojResolveAssemblyReference.cache
+G:\Srichid_Digital_Office\Chat\BussinessLayer\obj\Debug\BussinessLayer.dll
+G:\Srichid_Digital_Office\Chat\BussinessLayer\obj\Debug\BussinessLayer.pdb
+E:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\BussinessLayer.dll.config
+E:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\BussinessLayer.dll
+E:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\BussinessLayer.pdb
+E:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\EntityFramework.dll
+E:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+E:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.dll
+E:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Security.dll
+E:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Newtonsoft.Json.dll
+E:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Owin.dll
+E:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\EntityFramework.xml
+E:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+E:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.xml
+E:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Security.xml
+E:\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Newtonsoft.Json.xml
+E:\Srichid_Digital_Office\Chat\BussinessLayer\obj\Debug\BussinessLayer.dll
+E:\Srichid_Digital_Office\Chat\BussinessLayer\obj\Debug\BussinessLayer.pdb
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\BussinessLayer.dll.config
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\BussinessLayer.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\BussinessLayer.pdb
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\EntityFramework.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Security.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Owin.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\EntityFramework.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Security.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\obj\Debug\BussinessLayer.csprojResolveAssemblyReference.cache
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\obj\Debug\BussinessLayer.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\obj\Debug\BussinessLayer.pdb
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\BussinessLayer.dll.config
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\BussinessLayer.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\BussinessLayer.pdb
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\EntityFramework.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Security.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Newtonsoft.Json.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Owin.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\EntityFramework.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Security.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Newtonsoft.Json.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\obj\Debug\BussinessLayer.csprojResolveAssemblyReference.cache
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\obj\Debug\BussinessLayer.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\BussinessLayer\obj\Debug\BussinessLayer.pdb
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\BussinessLayer.dll.config
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\BussinessLayer.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\BussinessLayer.pdb
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\EntityFramework.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Security.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Newtonsoft.Json.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Owin.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\EntityFramework.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Security.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\BussinessLayer\bin\Debug\Newtonsoft.Json.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\BussinessLayer\obj\Debug\BussinessLayer.csprojResolveAssemblyReference.cache
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\BussinessLayer\obj\Debug\BussinessLayer.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\BussinessLayer\obj\Debug\BussinessLayer.pdb
+F:\Chat\BussinessLayer\bin\Debug\BussinessLayer.dll.config
+F:\Chat\BussinessLayer\bin\Debug\BussinessLayer.dll
+F:\Chat\BussinessLayer\bin\Debug\BussinessLayer.pdb
+F:\Chat\BussinessLayer\bin\Debug\EntityFramework.dll
+F:\Chat\BussinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+F:\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.dll
+F:\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+F:\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Security.dll
+F:\Chat\BussinessLayer\bin\Debug\Newtonsoft.Json.dll
+F:\Chat\BussinessLayer\bin\Debug\Owin.dll
+F:\Chat\BussinessLayer\bin\Debug\EntityFramework.xml
+F:\Chat\BussinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+F:\Chat\BussinessLayer\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.xml
+F:\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+F:\Chat\BussinessLayer\bin\Debug\Microsoft.Owin.Security.xml
+F:\Chat\BussinessLayer\bin\Debug\Newtonsoft.Json.xml
+F:\Chat\BussinessLayer\obj\Debug\BussinessLayer.dll
+F:\Chat\BussinessLayer\obj\Debug\BussinessLayer.pdb

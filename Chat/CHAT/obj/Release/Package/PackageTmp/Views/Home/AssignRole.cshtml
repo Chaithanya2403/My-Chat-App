@@ -1,0 +1,61 @@
+﻿
+@{
+    ViewBag.Title = "AssignRole";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="text-center">
+    <h4>ASSIGN ROLES</h4>
+</div>
+@using (Html.BeginForm("AssignRole", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <br />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="row col-md-12">
+            <table>
+                <tr>
+
+                    <td>
+                        <div class="col-md-4">
+                            <label class="col-md-8">User</label>
+                        </div>
+                        <div class="col-md-8">
+                            @Html.DropDownList("UserId", null, htmlAttributes: new { @class = "form-control" })
+                        </div>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div class="col-md-4">
+                            <label class="col-md-8">Role</label>
+                        </div>
+                        <div class="col-md-8">
+                            @Html.DropDownList("Roles", null, htmlAttributes: new { @class = "form-control" })
+                        </div>
+                    </td>
+                </tr>
+            </table>
+            <br />
+            <br />
+            
+        </div>
+    </div>
+ 
+    <div class="form-group">
+        <div class="col-lg-1">
+            <input type="submit" value="Save" class="btn btn-success" />
+        </div>
+    </div>
+}
+<div class="col-md-2">
+    @Html.ActionLink("Back to List", "Index")
+</div>
+<br />
+<br />
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

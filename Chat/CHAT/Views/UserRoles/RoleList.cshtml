@@ -1,0 +1,38 @@
+﻿
+@{
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<div style="width:75%">
+
+    <div class="col-md-12 text-center">
+        <h3>Roles</h3>
+    </div>
+    <table class="table-bordered">
+        <tr>
+            <th>
+                User ID
+            </th>
+            
+            <th>
+                RoleName
+            </th>
+          
+
+        </tr>
+        @foreach (var item in ViewBag.Roles)
+        {
+            <tr>
+                <td>
+                    @item.Id
+                </td>
+                <td>
+                    @item.RoleName
+                </td>
+           
+            </tr>
+
+        }
+    </table>
+</div>
+

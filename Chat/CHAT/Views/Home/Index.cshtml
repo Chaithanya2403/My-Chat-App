@@ -1,0 +1,37 @@
+@model IEnumerable<BussinessLayer.UserProfile>
+@{
+    ViewBag.Title = "Home Page";
+}
+<div style=" background-color:rgb(23,6,123)">
+    <div class="row" style="margin-top:5px;">
+        <div class="col-lg-12">
+            <div class="feature_header text-center">
+                <h4 style="text-transform:none;">
+                    <b>
+                        @*@Html.ActionLink("MVC&AngularJS Crash Course from 15th December", "CourseOverview", "", new { @style = "color:white;" })
+                        <img src="~/images/animated-new.gif" />
+                        <br />*@
+                        @*@Html.ActionLink("Log in", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })*@
+                        <div class="col-lg-12">
+
+                            <div class="col-lg-6">
+                                @Html.ActionLink("Enter into Chat Room", "Chat", "Home", new { @style = "color:oranged;" })
+                            </div>
+                            <div class="col-lg-6">
+                                @Html.ActionLink("Register Here! for Chat", "Create", "UserProfiles")
+                            </div>
+                        </div>
+                         
+                            @*<br />*@
+                           
+                    </b>
+                </h4>
+
+            </div>
+        </div>  <!-- Col-md-12 End -->
+    </div>
+</div>
+<!-- About details start -->
+<div class="clearfix"></div>
+
+<div class="clearfix"></div>

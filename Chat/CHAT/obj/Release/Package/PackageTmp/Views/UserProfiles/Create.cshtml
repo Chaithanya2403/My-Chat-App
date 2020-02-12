@@ -1,0 +1,144 @@
+﻿@model BussinessLayer.UserProfile
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/HomePageLayout.cshtml";
+}
+
+@using (Html.BeginForm("Create", "UserProfiles",FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <br />
+        <br />
+        <br />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="row col-md-12 text-center">
+            <table>
+                <tr class="col-md-12">
+                    <td class="col-md-6">
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.FullName)
+                        </div>
+                        <div class="col-sm-offset-2">
+                            @Html.EditorFor(model => model.FullName, new { htmlAttributes = new { @class = "form-control" } })
+                        </div>
+                        <div class="col-sm-offset-2">
+                            @Html.ValidationMessageFor(model => model.FullName, "", new { @class = "text-danger" })
+                        </div>
+                    </td>
+                </tr>
+                <tr class="col-md-12">
+                    <td class="col-md-6">
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.UserName)
+                        </div>
+                        <div class="col-sm-offset-2">
+                            @Html.EditorFor(model => model.UserName, new { htmlAttributes = new { @class = "form-control" } })
+                        </div>
+                        <div class="col-sm-offset-2">
+                            @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+                        </div>
+                    </td>
+                </tr>
+                @*<tr class="col-md-12">
+                        <td class="col-md-6">
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.Email)
+                            </div>
+                            <div class="col-sm-offset-2">
+                                @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+                            </div>
+                            <div class="col-sm-offset-2">
+                                @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                            </div>
+                        </td>
+                    </tr>*@
+                <tr class="col-md-12">
+                    <td class="col-md-6">
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Password)
+                        </div>
+                        <div class="col-sm-offset-2">
+                            @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control", @Type = "Password" } })
+                        </div>
+                        <div class="col-sm-offset-2">
+                            @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                        </div>
+                    </td>
+                </tr>
+                <tr class="col-md-12">
+                    <td class="col-md-6">
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.ConfirmPassword)
+                        </div>
+                        <div class="col-sm-offset-2">
+                            @Html.EditorFor(model => model.ConfirmPassword, new { htmlAttributes = new { @class = "form-control", @Type = "Password" } })
+                        </div>
+                        <div class="col-sm-offset-2">
+                            @Html.ValidationMessageFor(model => model.ConfirmPassword, "", new { @class = "text-danger" })
+                        </div>
+                    </td>
+                </tr>
+                @*<tr class="col-md-12">
+                        <td class="col-md-6">
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.Mobile)
+                            </div>
+                            <div class="col-sm-offset-2">
+                                @Html.EditorFor(model => model.Mobile, new { htmlAttributes = new { @class = "form-control" } })
+                            </div>
+                            <div class="col-sm-offset-2">
+                                @Html.ValidationMessageFor(model => model.Mobile, "", new { @class = "text-danger" })
+                            </div>
+                        </td>
+                    </tr>*@
+                @*<tr class="col-md-12">
+                    <td class="col-md-6">
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Role)
+                        </div>
+                        <div class="col-sm-offset-4">
+                            @Html.DropDownList("Role", null, htmlAttributes: new { @class = "form-control" })
+                        </div>
+                        <div class="col-sm-offset-4">
+                            @Html.ValidationMessageFor(model => model.Role, "", new { @class = "text-danger" })
+                        </div>
+                    </td>
+                </tr>*@
+                <div class="col-sm-2">
+                    <div class="danger" style="color:red;">
+                        <h5>(Not Mandatory)</h5>
+                    </div>
+                    <lable for="file">Upload Image</lable>
+                    <br />
+                    <input type="file" name="userImage" id="userImage" style="width:100%;" />
+                    <br />
+                    @*<input type="submit" value="Upload" class="submit" />*@
+                </div>
+            </table>
+            <br />
+            <br />
+            <br />
+            <div class="col-sm-8">
+                <input type="submit" value="Create" class="btn btn-success" />
+            </div>
+            <br />
+            <br />
+            <br />
+            <br />
+            <div class="success col-sm-6" style="color:green;">
+                @ViewBag.status
+            </div>
+        </div>
+    </div>
+}
+
+<div class="col-md-4">
+    @Html.ActionLink("Back to List", "Index")
+</div>
+    
+@section Scripts {
+   @Scripts.Render("~/bundles/jqueryval")
+ }

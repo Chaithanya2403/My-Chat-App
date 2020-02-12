@@ -1,0 +1,52 @@
+﻿@using (Html.BeginForm("AddUser", "Home", FormMethod.Post))
+{
+    <div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <div class="feature_header text-center">
+                <h3 class="feature_title">contact for <b>demo</b></h3>
+                <h4 class="feature_sub">Please leave a message! </h4> 
+                <p class="bg-info">@ViewBag.Status</p>              
+                <div class="divider"></div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="contact_full">
+            <div class="col-md-12">
+                <div>
+                    <form action="role">
+                      
+                        <div class="col-md-6 left">
+                            <div class="form-level">
+                                <input name="name" placeholder="Name" id="name" value="" type="text" class="input-block">
+                                <span class="form-icon fa fa-user"></span>
+                            </div>
+                            <div class="form-level">
+                                <input name="email" placeholder="Email" id="mail" class="input-block" value="" type="email">
+                                <span class="form-icon fa fa-envelope-o"></span>
+                            </div>
+                            <div class="form-level">
+                                <input name="phone" placeholder="Phone" id="phone" class="input-block" value="" type="text">
+                                <span class="form-icon fa fa-phone"></span>
+                            </div>
+                           
+                        </div>
+                       
+                            <div class="col-md-6 right">
+                                <div class="form-level">
+                                    <textarea name="message" id="messege" rows="5" class="textarea-block" placeholder="message"></textarea>
+                                    <span class="form-icon fa fa-pencil"></span>
+                                </div>
+                            </div>
+                           
+                       
+                        <div class="col-md-12 text-center">
+                            <input type="submit" value="Create Account" class="btn btn-main featured" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+}

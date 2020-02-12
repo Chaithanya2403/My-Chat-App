@@ -1,0 +1,1315 @@
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll.config
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.pdb
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Antlr3.Runtime.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.SqlServer.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Web.Infrastructure.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Newtonsoft.Json.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Owin.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Net.Http.Formatting.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Helpers.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.WebHost.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Mvc.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Optimization.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Razor.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\WebGrease.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Helpers.xml
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Mvc.xml
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Optimization.xml
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Razor.xml
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.xml
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.xml
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.xml
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Antlr3.Runtime.pdb
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Newtonsoft.Json.xml
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Net.Http.Formatting.xml
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.xml
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.WebHost.xml
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.xml
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.SqlServer.xml
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.xml
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.xml
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.xml
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.xml
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.xml
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.xml
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.xml
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.xml
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csprojResolveAssemblyReference.cache
+E:\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.pdb
+E:\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.AcadamyMigrations.InitialCreate.resources
+E:\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csproj.GenerateResource.Cache
+E:\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.IdentityMigrations.InitialCreate.resources
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\BussinessLayer.dll
+E:\SRICHIDACADEMY\SRICHIDACADEMY\bin\BussinessLayer.pdb
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.pdb
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Antlr3.Runtime.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\BussinessLayer.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.SqlServer.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Web.Infrastructure.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Newtonsoft.Json.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Owin.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Net.Http.Formatting.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Helpers.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.WebHost.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Mvc.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Optimization.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Razor.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\WebGrease.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\BussinessLayer.pdb
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.xml
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.SqlServer.xml
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Helpers.xml
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Mvc.xml
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Optimization.xml
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Razor.xml
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.xml
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.xml
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.xml
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Antlr3.Runtime.pdb
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Newtonsoft.Json.xml
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Net.Http.Formatting.xml
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.xml
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.WebHost.xml
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.xml
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.xml
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.xml
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csprojResolveAssemblyReference.cache
+D:\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.AcadamyMigrations.InitialCreate.resources
+D:\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.IdentityMigrations.InitialCreate.resources
+D:\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csproj.GenerateResource.Cache
+D:\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.dll
+D:\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.pdb
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll.config
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.pdb
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Antlr3.Runtime.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\BussinessLayer.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.SqlServer.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Web.Infrastructure.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Newtonsoft.Json.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Owin.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Net.Http.Formatting.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Helpers.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.WebHost.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Mvc.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Optimization.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Razor.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\WebGrease.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\BussinessLayer.pdb
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.xml
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.SqlServer.xml
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.xml
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Helpers.xml
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Mvc.xml
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Optimization.xml
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Razor.xml
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.xml
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.xml
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.xml
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Antlr3.Runtime.pdb
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Newtonsoft.Json.xml
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Net.Http.Formatting.xml
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.xml
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.WebHost.xml
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.xml
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.xml
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.xml
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.xml
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.xml
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.xml
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.xml
+F:\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csprojResolveAssemblyReference.cache
+F:\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.AcadamyMigrations.InitialCreate.resources
+F:\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.IdentityMigrations.InitialCreate.resources
+F:\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csproj.GenerateResource.Cache
+F:\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.dll
+F:\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.pdb
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.pdb
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Antlr3.Runtime.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\BussinessLayer.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.SqlServer.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Web.Infrastructure.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Newtonsoft.Json.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Owin.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Net.Http.Formatting.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Helpers.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.WebHost.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Mvc.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Optimization.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Razor.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\WebGrease.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\BussinessLayer.pdb
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.xml
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.SqlServer.xml
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Helpers.xml
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Mvc.xml
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Optimization.xml
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Razor.xml
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.xml
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.xml
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.xml
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Antlr3.Runtime.pdb
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Newtonsoft.Json.xml
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Net.Http.Formatting.xml
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.xml
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.WebHost.xml
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.xml
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.xml
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.xml
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csprojResolveAssemblyReference.cache
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.AcadamyMigrations.InitialCreate.resources
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.IdentityMigrations.InitialCreate.resources
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csproj.GenerateResource.Cache
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.dll
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.pdb
+D:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll.config
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll.config
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.pdb
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Antlr3.Runtime.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\BussinessLayer.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.SqlServer.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Web.Infrastructure.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Newtonsoft.Json.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Owin.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Net.Http.Formatting.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Helpers.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.WebHost.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Mvc.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Optimization.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Razor.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\WebGrease.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\BussinessLayer.pdb
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.SqlServer.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Helpers.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Mvc.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Optimization.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Razor.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Antlr3.Runtime.pdb
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Newtonsoft.Json.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Net.Http.Formatting.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.WebHost.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csprojResolveAssemblyReference.cache
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.AcadamyMigrations.InitialCreate.resources
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.IdentityMigrations.InitialCreate.resources
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csproj.GenerateResource.Cache
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.dll
+E:\Chaitanya\SrichidAcademyLatest\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.pdb
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll.config
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.pdb
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Antlr3.Runtime.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\BussinessLayer.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.SqlServer.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Web.Infrastructure.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Newtonsoft.Json.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Owin.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Net.Http.Formatting.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Helpers.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.WebHost.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Mvc.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Optimization.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Razor.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\WebGrease.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\BussinessLayer.pdb
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.SqlServer.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Helpers.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Mvc.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Optimization.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Razor.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Antlr3.Runtime.pdb
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Newtonsoft.Json.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Net.Http.Formatting.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.WebHost.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csprojResolveAssemblyReference.cache
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.AcadamyMigrations.InitialCreate.resources
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.IdentityMigrations.InitialCreate.resources
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csproj.GenerateResource.Cache
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.dll
+E:\Chaitanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.pdb
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll.config
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.pdb
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Antlr3.Runtime.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\BussinessLayer.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.SqlServer.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Web.Infrastructure.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Newtonsoft.Json.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Owin.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Net.Http.Formatting.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Helpers.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.WebHost.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Mvc.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Optimization.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Razor.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\WebGrease.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\BussinessLayer.pdb
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.SqlServer.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Helpers.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Mvc.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Optimization.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Razor.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Antlr3.Runtime.pdb
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Newtonsoft.Json.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Net.Http.Formatting.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.WebHost.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csprojResolveAssemblyReference.cache
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.AcadamyMigrations.InitialCreate.resources
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.IdentityMigrations.InitialCreate.resources
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csproj.GenerateResource.Cache
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.dll
+D:\Chaithanya\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.pdb
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll.config
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.pdb
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Antlr3.Runtime.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\BussinessLayer.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.SqlServer.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Web.Infrastructure.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Newtonsoft.Json.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Owin.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Net.Http.Formatting.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Helpers.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.WebHost.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Mvc.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Optimization.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Razor.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\WebGrease.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\BussinessLayer.pdb
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.SqlServer.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Helpers.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Mvc.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Optimization.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Razor.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Antlr3.Runtime.pdb
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Newtonsoft.Json.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Net.Http.Formatting.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.WebHost.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csprojResolveAssemblyReference.cache
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.AcadamyMigrations.InitialCreate.resources
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.IdentityMigrations.InitialCreate.resources
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csproj.GenerateResource.Cache
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.dll
+K:\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.pdb
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll.config
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.pdb
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Antlr3.Runtime.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\BussinessLayer.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.SqlServer.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Web.Infrastructure.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Newtonsoft.Json.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Owin.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Net.Http.Formatting.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Helpers.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.WebHost.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Mvc.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Optimization.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Razor.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\WebGrease.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\BussinessLayer.pdb
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.SqlServer.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Helpers.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Mvc.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Optimization.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Razor.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Antlr3.Runtime.pdb
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Newtonsoft.Json.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Net.Http.Formatting.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.WebHost.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csprojResolveAssemblyReference.cache
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.AcadamyMigrations.InitialCreate.resources
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.IdentityMigrations.InitialCreate.resources
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csproj.GenerateResource.Cache
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.dll
+D:\Srichid product source\Srichid Academy Chat Application\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.pdb
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll.config
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\SRICHIDACADEMY.pdb
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Antlr3.Runtime.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\BussinessLayer.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.SqlServer.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Web.Infrastructure.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Newtonsoft.Json.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Owin.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Net.Http.Formatting.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Helpers.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.WebHost.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Mvc.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Optimization.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Razor.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\WebGrease.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\BussinessLayer.pdb
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\EntityFramework.SqlServer.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Helpers.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Mvc.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Optimization.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Razor.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Antlr3.Runtime.pdb
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Newtonsoft.Json.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Net.Http.Formatting.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\System.Web.Http.WebHost.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csprojResolveAssemblyReference.cache
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.AcadamyMigrations.InitialCreate.resources
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.IdentityMigrations.InitialCreate.resources
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csproj.GenerateResource.Cache
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.dll
+F:\SrichidAcademyLatest\SRICHIDACADEMY\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.pdb
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll.config
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.pdb
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Antlr3.Runtime.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\BussinessLayer.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\EntityFramework.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\EntityFramework.SqlServer.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Web.Infrastructure.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Newtonsoft.Json.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Owin.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Net.Http.Formatting.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.Helpers.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.Http.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.Http.WebHost.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.Mvc.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.Optimization.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.Razor.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\WebGrease.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\BussinessLayer.pdb
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\EntityFramework.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\EntityFramework.SqlServer.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.Helpers.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.Mvc.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.Optimization.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.Razor.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Antlr3.Runtime.pdb
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Newtonsoft.Json.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Net.Http.Formatting.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.Http.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.Http.WebHost.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Chat_Application\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csprojResolveAssemblyReference.cache
+F:\Chat_Application\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.AcadamyMigrations.InitialCreate.resources
+F:\Chat_Application\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.IdentityMigrations.InitialCreate.resources
+F:\Chat_Application\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csproj.GenerateResource.Cache
+F:\Chat_Application\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.dll
+F:\Chat_Application\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.pdb
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll.config
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.pdb
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Antlr3.Runtime.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\BussinessLayer.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\EntityFramework.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\EntityFramework.SqlServer.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Web.Infrastructure.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Newtonsoft.Json.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Owin.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Net.Http.Formatting.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.Helpers.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.Http.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.Http.WebHost.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.Mvc.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.Optimization.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.Razor.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\WebGrease.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\BussinessLayer.pdb
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\EntityFramework.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\EntityFramework.SqlServer.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.Helpers.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.Mvc.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.Optimization.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.Razor.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Antlr3.Runtime.pdb
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Newtonsoft.Json.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Net.Http.Formatting.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.Http.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\System.Web.Http.WebHost.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csprojResolveAssemblyReference.cache
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.AcadamyMigrations.InitialCreate.resources
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.IdentityMigrations.InitialCreate.resources
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csproj.GenerateResource.Cache
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.dll
+D:\New Digital Office For Demo\Chat_Application\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.pdb
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll.config
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.pdb
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Antlr3.Runtime.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\BussinessLayer.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\EntityFramework.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\EntityFramework.SqlServer.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.Web.Infrastructure.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Newtonsoft.Json.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Owin.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\System.Net.Http.Formatting.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\System.Web.Helpers.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\System.Web.Http.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\System.Web.Http.WebHost.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\System.Web.Mvc.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\System.Web.Optimization.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\System.Web.Razor.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\WebGrease.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\BussinessLayer.pdb
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\EntityFramework.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\EntityFramework.SqlServer.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\System.Web.Helpers.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\System.Web.Mvc.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\System.Web.Optimization.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\System.Web.Razor.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Antlr3.Runtime.pdb
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Newtonsoft.Json.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\System.Net.Http.Formatting.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\System.Web.Http.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\System.Web.Http.WebHost.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csprojResolveAssemblyReference.cache
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.AcadamyMigrations.InitialCreate.resources
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.IdentityMigrations.InitialCreate.resources
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csproj.GenerateResource.Cache
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.dll
+F:\NewDigitalOfficeV2\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.pdb
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csprojResolveAssemblyReference.cache
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.AcadamyMigrations.InitialCreate.resources
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.IdentityMigrations.InitialCreate.resources
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csproj.GenerateResource.Cache
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll.config
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.pdb
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Antlr3.Runtime.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\BussinessLayer.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\EntityFramework.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\EntityFramework.SqlServer.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.Web.Infrastructure.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Newtonsoft.Json.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Owin.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\System.Net.Http.Formatting.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\System.Web.Helpers.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\System.Web.Http.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\System.Web.Http.WebHost.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\System.Web.Mvc.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\System.Web.Optimization.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\System.Web.Razor.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\WebGrease.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\BussinessLayer.pdb
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\EntityFramework.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\EntityFramework.SqlServer.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\System.Web.Helpers.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\System.Web.Mvc.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\System.Web.Optimization.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\System.Web.Razor.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Antlr3.Runtime.pdb
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Newtonsoft.Json.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\System.Net.Http.Formatting.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\System.Web.Http.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\System.Web.Http.WebHost.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.dll
+D:\Digital Office_07_02_2017\Digital Office_Database_Backups\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.pdb
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll.config
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.pdb
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Antlr3.Runtime.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\BussinessLayer.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\EntityFramework.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\EntityFramework.SqlServer.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Web.Infrastructure.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Newtonsoft.Json.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Owin.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Net.Http.Formatting.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Helpers.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Http.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Http.WebHost.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Mvc.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Optimization.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Razor.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\WebGrease.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\BussinessLayer.pdb
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\EntityFramework.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\EntityFramework.SqlServer.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Helpers.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Mvc.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Optimization.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Razor.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Antlr3.Runtime.pdb
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Newtonsoft.Json.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Net.Http.Formatting.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Http.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Http.WebHost.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csprojResolveAssemblyReference.cache
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.AcadamyMigrations.InitialCreate.resources
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.IdentityMigrations.InitialCreate.resources
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csproj.GenerateResource.Cache
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.dll
+G:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.pdb
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll.config
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.pdb
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Antlr3.Runtime.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\BussinessLayer.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\EntityFramework.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\EntityFramework.SqlServer.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Web.Infrastructure.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Newtonsoft.Json.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Owin.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Net.Http.Formatting.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Helpers.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Http.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Http.WebHost.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Mvc.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Optimization.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Razor.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\WebGrease.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\BussinessLayer.pdb
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\EntityFramework.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\EntityFramework.SqlServer.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Helpers.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Mvc.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Optimization.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Razor.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Antlr3.Runtime.pdb
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Newtonsoft.Json.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Net.Http.Formatting.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Http.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Http.WebHost.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csprojResolveAssemblyReference.cache
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.AcadamyMigrations.InitialCreate.resources
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.IdentityMigrations.InitialCreate.resources
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csproj.GenerateResource.Cache
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.dll
+E:\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.pdb
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll.config
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.pdb
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Antlr3.Runtime.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\BussinessLayer.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\EntityFramework.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\EntityFramework.SqlServer.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Web.Infrastructure.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Newtonsoft.Json.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Owin.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Net.Http.Formatting.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Helpers.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Http.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Http.WebHost.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Mvc.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Optimization.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Razor.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\WebGrease.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\BussinessLayer.pdb
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\EntityFramework.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\EntityFramework.SqlServer.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Helpers.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Mvc.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Optimization.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Razor.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Antlr3.Runtime.pdb
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Newtonsoft.Json.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Net.Http.Formatting.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Http.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Http.WebHost.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csprojResolveAssemblyReference.cache
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.AcadamyMigrations.InitialCreate.resources
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.IdentityMigrations.InitialCreate.resources
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csproj.GenerateResource.Cache
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.dll
+D:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.pdb
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csprojResolveAssemblyReference.cache
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.AcadamyMigrations.InitialCreate.resources
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.IdentityMigrations.InitialCreate.resources
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csproj.GenerateResource.Cache
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.pdb
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll.config
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.pdb
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Antlr3.Runtime.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\BussinessLayer.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\EntityFramework.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\EntityFramework.SqlServer.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Web.Infrastructure.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Newtonsoft.Json.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Owin.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Net.Http.Formatting.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Helpers.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Http.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Http.WebHost.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Mvc.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Optimization.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Razor.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\WebGrease.dll
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\BussinessLayer.pdb
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\EntityFramework.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\EntityFramework.SqlServer.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Helpers.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Mvc.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Optimization.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Razor.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Antlr3.Runtime.pdb
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Newtonsoft.Json.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Net.Http.Formatting.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Http.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Http.WebHost.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Srichid_Digital_Office_Latest\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll.config
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\SRICHIDACADEMY.pdb
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Antlr3.Runtime.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\BussinessLayer.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\EntityFramework.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\EntityFramework.SqlServer.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Web.Infrastructure.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Newtonsoft.Json.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Owin.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Net.Http.Formatting.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Helpers.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Http.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Http.WebHost.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Mvc.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Optimization.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Razor.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\WebGrease.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\BussinessLayer.pdb
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\BussinessLayer.dll.config
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\EntityFramework.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\EntityFramework.SqlServer.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Core.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Helpers.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Mvc.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Optimization.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Razor.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Deployment.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.WebPages.Razor.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Antlr3.Runtime.pdb
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Newtonsoft.Json.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Net.Http.Formatting.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Http.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\System.Web.Http.WebHost.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Facebook.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Cookies.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.OAuth.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Google.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.Twitter.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csprojResolveAssemblyReference.cache
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.AcadamyMigrations.InitialCreate.resources
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.DataContexts.IdentityMigrations.InitialCreate.resources
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csproj.GenerateResource.Cache
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.csproj.CoreCompileInputs.cache
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.dll
+F:\DIGITAL OFFICE\Srichid_Digital_Office\Chat\SRICHIDACADEMY\obj\Debug\SRICHIDACADEMY.pdb

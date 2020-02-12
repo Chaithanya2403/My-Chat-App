@@ -1,0 +1,594 @@
+@model IEnumerable<BussinessLayer.CourseDetail>
+@{
+    ViewBag.Title = "Home Page";
+}
+<div style=" background-color:rgb(23,6,123)">
+    <div class="row" style="margin-top:5px;">
+        <div class="col-lg-12">
+            <div class="feature_header text-center">
+                <h4 style="text-transform:none;">
+                    <b>
+                        @*@Html.ActionLink("MVC&AngularJS Crash Course from 15th December", "CourseOverview", "", new { @style = "color:white;" })
+                        <img src="~/images/animated-new.gif" />
+                        <br />*@
+                        @*@Html.ActionLink("Log in", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })*@
+                        <div class="col-lg-12">
+
+                            <div class="col-lg-6">
+                                @Html.ActionLink("Enter into Chat Room", "Chat", "Home", new { @style = "color:oranged;" })
+                            </div>
+                            <div class="col-lg-6">
+                                @Html.ActionLink("Register Here! for Chat", "Create", "UserProfiles")
+                            </div>
+                        </div>
+                         
+                            @*<br />*@
+                           
+                    </b>
+                </h4>
+
+            </div>
+        </div>  <!-- Col-md-12 End -->
+    </div>
+</div>
+<!-- About details start -->
+@*<section id="about-details" style="background:">
+    <div class="container">
+        <div class="col-md-12 text-center">
+            <button class="btn btn-main featured"><a href="#contact" style="color:white;">Join Now!</a></button>
+            <button class="btn btn-main featured"><a href="#contact" style="color:white;">Request for Demo!</a></button>
+        </div>
+        <div class="row" style="margin-top:5px;">
+            <div class="col-lg-12">
+                <div style=" " class="feature_header text-center">
+
+                    <div class="divider"></div>
+                </div>
+        </div>
+        <div class="row" style="height:300px; color:white;">
+            <div class="col-lg-3" style="margin-right:5px; background-image:url(http://srichid.com/srichid.academy/images/banner/onlinetraining.jpg);">
+
+                @Html.Partial("Login")
+            </div>
+            <div class="col-lg-8">
+                <div class="row" style="height:150px">
+                    <div class="col-lg-6" style=" background-image:url(http://srichid.com/srichid.academy/images/banner/riskcourses.jpg)">
+                        <br />
+                        <br />
+                        <h2 style="color:white;font-weight:lighter;">IT Courses</h2>
+                        <br />
+                        <br />
+                    </div>
+                    <div class="col-lg-6" style=" background-image:url(http://srichid.com/srichid.academy/images/banner/offlinetraining.jpg)">
+                        <br />
+                        <br />
+                        <h2 style="color:white; font-weight:lighter;">Risk Courses</h2>
+                        <br />
+                        <br />
+                    </div>
+                </div>
+                <br />
+                <br />
+                <div class="row" style="height:150px">
+                    <div class="col-lg-6" style=" background-image:url(http://srichid.com/srichid.academy/images/banner/counselling.jpg)">
+                        <br />
+                        <br />
+                        <h2 style="color:white;font-weight:lighter;">Consulting</h2>
+                        <br />
+                        <br />
+                    </div>
+                    <div class="col-lg-6" style=" background-image:url(http://srichid.com/srichid.academy/images/banner/consulting.jpg)">
+                        <br />
+                        <br />
+                        <h2 style="color:white;font-weight:lighter;">Counseling</h2>
+                        <br />
+                        <br />
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>*@
+<!-- About details end -->
+@*<section id="team">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                    <div class="feature_header text-center">
+                        <h3 class="feature_title">Our <b>Team Members</b></h3>
+                        <h4 class="feature_sub">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </h4>
+                        <div class="divider"></div>
+                    </div>
+                </div>  <!-- Col-md-12 End -->
+                <div id="owl-demo" class="owl-carousel owl-theme team-items">
+                    <div class="item text-center">
+                        <div class="single-member">
+                            <div class="overlay-hover">
+                                <img src="~/images/team/pic6.jpg" alt="" class="img-responsive">
+                                <div class="overlay-effect">
+                                    <ul class="social list-inline">
+                                        <li><a href=""><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href=""><i class="fa fa-google-plus"></i></a></li>
+                                        <li><a href=""><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href=""><i class="fa fa-pinterest"></i></a></li>
+                                        <li><a href=""><i class="fa fa-skype"></i></a></li>
+                                    </ul>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus dignissimos, maxime ea excepturi veritatis itaque. </p>
+                                </div>
+                            </div>
+                            <h3>John Abraham</h3>
+                            <h5>Chief Designer</h5>
+                        </div>
+                    </div>  <!-- item wrapper end -->
+                    <div class="item text-center">
+                        <div class="single-member">
+                            <div class="overlay-hover">
+                                <img src="~/images/team/pic1.jpg" alt="" class="img-responsive">
+                                <div class="overlay-effect">
+                                    <ul class="social list-inline">
+                                        <li><a href=""><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href=""><i class="fa fa-google-plus"></i></a></li>
+                                        <li><a href=""><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href=""><i class="fa fa-pinterest"></i></a></li>
+                                        <li><a href=""><i class="fa fa-skype"></i></a></li>
+                                    </ul>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus dignissimos, maxime ea excepturi veritatis itaque. </p>
+                                </div>
+                            </div>
+                            <h3>John Abraham</h3>
+                            <h5>Chief Designer</h5>
+                        </div>
+                    </div>  <!-- item wrapper end -->
+                    <div class="item text-center">
+                        <div class="single-member">
+                            <div class="overlay-hover">
+                                <img src="~/images/team/pic2.jpg" alt="" class="img-responsive">
+                                <div class="overlay-effect">
+                                    <ul class="social list-inline">
+                                        <li><a href=""><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href=""><i class="fa fa-google-plus"></i></a></li>
+                                        <li><a href=""><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href=""><i class="fa fa-pinterest"></i></a></li>
+                                        <li><a href=""><i class="fa fa-skype"></i></a></li>
+                                    </ul>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus dignissimos, maxime ea excepturi veritatis itaque. </p>
+                                </div>
+                            </div>
+                            <h3>John Abraham</h3>
+                            <h5>Chief Designer</h5>
+                        </div>
+                    </div>  <!-- item wrapper end -->
+                    <div class="item text-center">
+                        <div class="single-member">
+                            <div class="overlay-hover">
+                                <img src="~/images/team/pic5.jpg" alt="" class="img-responsive">
+                                <div class="overlay-effect">
+                                    <ul class="social list-inline">
+                                        <li><a href=""><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href=""><i class="fa fa-google-plus"></i></a></li>
+                                        <li><a href=""><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href=""><i class="fa fa-pinterest"></i></a></li>
+                                        <li><a href=""><i class="fa fa-skype"></i></a></li>
+                                    </ul>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus dignissimos, maxime ea excepturi veritatis itaque. </p>
+                                </div>
+                            </div>
+                            <h3>John Abraham</h3>
+                            <h5>Chief Designer</h5>
+                        </div>
+                    </div>  <!-- item wrapper end -->
+                    <div class="item text-center">
+                        <div class="single-member">
+                            <div class="overlay-hover">
+                                <img src="~/images/team/pic4.jpg" alt="" class="img-responsive">
+                                <div class="overlay-effect">
+                                    <ul class="social list-inline">
+                                        <li><a href=""><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href=""><i class="fa fa-google-plus"></i></a></li>
+                                        <li><a href=""><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href=""><i class="fa fa-pinterest"></i></a></li>
+                                        <li><a href=""><i class="fa fa-skype"></i></a></li>
+                                    </ul>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus dignissimos, maxime ea excepturi veritatis itaque. </p>
+                                </div>
+                            </div>
+                            <h3>John Abraham</h3>
+                            <h5>Chief Designer</h5>
+                        </div>
+                    </div>  <!-- item wrapper end -->
+                </div>
+            </div>
+        </div> <!-- Conatiner Team end -->
+        <!-- </div> -->
+    </section>*@
+<!-- Section TEam End -->
+<!-- Our Team Members End -->
+<div class="clearfix"></div>
+
+<div class="clearfix"></div>
+@*<section id="pricing_table" class="pricing_overlay">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="feature_header text-center">
+                    <h3 class="feature_title"><b>Training Areas</b></h3>
+                    <h4 class="feature_sub"></h4>
+                    <div class="divider"></div>
+                </div>
+            </div> 
+            <div class="text-center pricing">
+                <div class="col-md-4 col-xs-12 col-sm-12">
+                    <div class="single_table">
+                        <div class="plan_wraper"></div>
+                        <ul>
+                            <li class="plan">Overseas Education</li>
+                            <li class="price">  <span></span></li>
+                            <li>GRE</li>
+                            <li>GMAT</li>
+                            <li>LSAT</li>
+                            <li> TOEFL</li>
+                            <li> IELTS</li>
+                            <li class="price_button"> <button class="btn btn-main">Interested Now!</button></li>
+                        </ul>
+                    </div>
+                </div> 
+                <div class="col-md-4 col-xs-12 col-sm-12">
+                    <div class="single_table grey_bg  ">
+                        <div class="plan_wraper"></div>
+                        <ul>
+                            <li class="plan">Information Technologies</li>
+                            <li class="price">  <span></span></li>
+                            <li>Microsoft .Net</li>
+                            <li>AngularJS</li>
+                            <li>SQL Server</li>
+                            <li>Windows Azure</li>
+                            <li>Android</li>
+                            <li class="price_button"> <button class="btn btn-main featured">Interested Now!</button></li>
+                        </ul>
+                    </div>
+                </div> 
+                <div class="col-md-4 col-xs-12 col-sm-12">
+                    <div class="single_table dark_bg">
+                        <div class="plan_wraper"></div>
+                        <ul>
+                            <li class="plan">Global Risk Hub</li>
+                            <li class="price">  <span></span></li>
+                            <li> Risk Management</li>
+                            <li>Accounting</li>
+                            <li>Banking</li>
+                            <li>Core Banking</li>
+                            <li>Financial Risks</li>
+                            <li class="price_button"> <button class="btn btn-main">Interested Now!</button></li>
+                        </ul>
+                    </div>
+                </div> 
+            </div>
+        </div>
+    </div>
+</section>*@  
+<!-- Pricing Table End -->
+<!-- bLOG Start -->
+@*<section id="blog">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                    <div class="feature_header text-center">
+                        <h3 class="feature_title">Our <b>Blog</b></h3>
+                        <h4 class="feature_sub">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </h4>
+                        <div class="divider"></div>
+                    </div>
+                </div>  <!-- Col-md-12 End -->
+            </div>
+            <div class="row">
+                <div class="blog-timeline">
+                    <div id="owl-blog" class="owl-carousel owl-theme">
+                        <div class="item ">
+                            <div class="single_blog">
+                                <div class="post_img text-center">
+                                    <a href="blog-single.html"><img src="~/images/blog/pic3.jpg" alt="" class="img-responsive"></a>
+                                    <div class="post-date">
+                                        <span>25</span> 6
+                                    </div>
+                                </div>
+                                <a href="blog-single.html"><h4>Lorem ipsum dolor sit amet</h4></a>
+                                <ul class="list-inline">
+                                    <li> <i class="fa fa-pencil"></i> John Smith</li>
+                                    <li> <i class="fa fa-comments"></i> 12</li>
+                                </ul>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus provident quae maxime consequuntur atque.</p>
+                            </div>
+                        </div>
+                        <div class="item ">
+                            <div class="single_blog">
+                                <div class="post_img text-center">
+                                    <a href="blog-single.html"><img src="~/images/blog/pic4.jpg" alt="" class="img-responsive"></a>
+                                    <div class="post-date">
+                                        <span>25</span> 6
+                                    </div>
+                                </div>
+                                <a href="blog-single.html"> <h4>Lorem ipsum dolor sit amet</h4></a>
+                                <ul class="list-inline">
+                                    <li> <i class="fa fa-pencil"></i> John Smith</li>
+                                    <li> <i class="fa fa-comments"></i> 12</li>
+                                </ul>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus provident quae maxime consequuntur atque.</p>
+                            </div>
+                        </div>
+                        <div class="item ">
+                            <div class="single_blog">
+                                <div class="post_img text-center">
+                                    <a href="blog-single.html"><img src="~/images/blog/pic2.jpg" alt="" class="img-responsive"></a>
+                                    <div class="post-date">
+                                        <span>25</span> 6
+                                    </div>
+                                </div>
+                                <a href="blog-single.html"><h4>Lorem ipsum dolor sit amet</h4></a>
+                                <ul class="list-inline">
+                                    <li> <i class="fa fa-pencil"></i> John Smith</li>
+                                    <li> <i class="fa fa-comments"></i> 12</li>
+                                </ul>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus provident quae maxime consequuntur atque.</p>
+                            </div>
+                        </div>
+                        <div class="item ">
+                            <div class="single_blog">
+                                <div class="post_img text-center">
+                                    <a href="blog-single.html"><img src="~/images/blog/pic5.jpg" alt="" class="img-responsive"> </a>
+                                    <div class="post-date">
+                                        <span>25</span> 6
+                                    </div>
+                                </div>
+                                <a href="blog-single.html"><h4>Lorem ipsum dolor sit amet</h4></a>
+                                <ul class="list-inline">
+                                    <li> <i class="fa fa-pencil"></i> John Smith</li>
+                                    <li> <i class="fa fa-comments"></i> 12</li>
+                                </ul>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus provident quae maxime consequuntur atque.</p>
+                            </div>
+                        </div>
+                        <div class="item ">
+                            <div class="single_blog">
+                                <div class="post_img text-center">
+                                    <a href="blog-single.html"><img src="~/images/blog/pic1.jpg" alt="" class="img-responsive"></a>
+                                    <div class="post-date">
+                                        <span>25</span> 6
+                                    </div>
+                                </div>
+                                <a href="blog-single.html"><h4>Lorem ipsum dolor sit amet</h4></a>
+                                <ul class="list-inline">
+                                    <li> <i class="fa fa-pencil"></i> John Smith</li>
+                                    <li> <i class="fa fa-comments"></i> 12</li>
+                                </ul>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus provident quae maxime consequuntur atque.</p>
+                            </div>
+                        </div>
+                        <div class="item ">
+                            <div class="single_blog">
+                                <div class="post_img text-center">
+                                    <a href="blog-single.html"><img src="~/images/blog/pic3.jpg" alt="" class="img-responsive"></a>
+                                    <div class="post-date">
+                                        <span>25</span> 6
+                                    </div>
+                                </div>
+                                <a href="blog-single.html"><h4>Lorem ipsum dolor sit amet</h4></a>
+                                <ul class="list-inline">
+                                    <li> <i class="fa fa-pencil"></i> John Smith</li>
+                                    <li> <i class="fa fa-comments"></i> 12</li>
+                                </ul>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus provident quae maxime consequuntur atque.</p>
+                            </div>
+                        </div>
+                        <div class="item ">
+                            <div class="single_blog">
+                                <div class="post_img text-center">
+                                    <a href="blog-single.html"><img src="~/images/blog/pic2.jpg" alt="" class="img-responsive"></a>
+                                    <div class="post-date">
+                                        <span>25</span> 6
+                                    </div>
+                                </div>
+                                <a href="blog-single.html"><h4>Lorem ipsum dolor sit amet</h4></a>
+                                <ul class="list-inline">
+                                    <li> <i class="fa fa-pencil"></i> John Smith</li>
+                                    <li> <i class="fa fa-comments"></i> 12</li>
+                                </ul>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus provident quae maxime consequuntur atque.</p>
+                            </div>
+                        </div>
+                        <div class="item ">
+                            <div class="single_blog">
+                                <div class="post_img text-center">
+                                    <a href="blog-single.html"><img src="~/images/blog/pic4.jpg" alt="" class="img-responsive"></a>
+                                    <div class="post-date">
+                                        <span>25</span> 6
+                                    </div>
+                                </div>
+                                <a href="blog-single.html"><h4>Lorem ipsum dolor sit amet</h4></a>
+                                <ul class="list-inline">
+                                    <li> <i class="fa fa-pencil"></i> John Smith</li>
+                                    <li> <i class="fa fa-comments"></i> 12</li>
+                                </ul>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus provident quae maxime consequuntur atque.</p>
+                            </div>
+                        </div>
+                        <div class="item ">
+                            <div class="single_blog">
+                                <div class="post_img text-center">
+                                    <a href="blog-single.html"><img src="~/images/blog/pic1.jpg" alt="" class="img-responsive"></a>
+                                    <div class="post-date">
+                                        <span>25</span> 6
+                                    </div>
+                                </div>
+                                <a href="blog-single.html"><h4>Lorem ipsum dolor sit amet</h4></a>
+                                <ul class="list-inline">
+                                    <li> <i class="fa fa-pencil"></i> John Smith</li>
+                                    <li> <i class="fa fa-comments"></i> 12</li>
+                                </ul>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus provident quae maxime consequuntur atque.</p>
+                            </div>
+                        </div>
+                        <div class="item ">
+                            <div class="single_blog">
+                                <div class="post_img text-center">
+                                    <a href="blog-single.html"><img src="~/images/blog/pic5.jpg" alt="" class="img-responsive"></a>
+                                    <div class="post-date">
+                                        <span>25</span> 6
+                                    </div>
+                                </div>
+                                <a href="blog-single.html"><h4>Lorem ipsum dolor sit amet</h4></a>
+                                <ul class="list-inline">
+                                    <li> <i class="fa fa-pencil"></i> John Smith</li>
+                                    <li> <i class="fa fa-comments"></i> 12</li>
+                                </ul>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus provident quae maxime consequuntur atque.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div> <!-- blog Timeline End -->
+            </div>
+        </div>
+    </section>*@
+<!-- bLOG End -->
+<!-- Testimonial Start -->
+@*<section id="testimonial" class="wow fadeInUp">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                    <div class="feature_header text-center">
+                        <h3 class="feature_title"><b>Customers</b> Feedback</h3>
+                        <h4 class="feature_sub">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </h4>
+                        <div class="divider"></div>
+                    </div>
+                </div>  <!-- Col-md-12 End -->
+            </div>
+            <div class="row">
+                <div id="testimonial-carousel" class="owl-carousel owl-theme text-center testimonial-slide">
+                    <div class="item">
+                        <div class="testimonial-thumb">
+                            <img class="img-circle" src="~/images/team/pic1.jpg" alt="testimonial">
+                        </div>
+                        <div class="testimonial-content">
+                            <h3 class="name">Katee Nureen <span>Exectuive Director</span></h3>
+                            <p class="testimonial-text">
+                                iLorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose. Lorem Ipsum is that it as opposed to using.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="testimonial-thumb">
+                            <img class="img-circle" src="~/images/testimonial2.png" alt="testimonial">
+                        </div>
+                        <div class="testimonial-content">
+                            <h3 class="name">Angry Figer <span>Frozen Director</span></h3>
+                            <p class="testimonial-text">
+                                Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose. Lorem Ipsum is that it as opposed to using.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="testimonial-thumb">
+                            <img class="img-circle" src="~/images/team/pic6.jpg" alt="testimonial">
+                        </div>
+                        <div class="testimonial-content">
+                            <h3 class="name wow bounceInLeft">Monica Lunaxy<span>Sales Manager</span></h3>
+                            <p class="testimonial-text">
+                                Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose. Lorem Ipsum is that it as opposed to using.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Navigation start -->
+                <div class="customNavigation cyprass-carousel-controller">
+                    <a class="prev left">
+                        <i class="fa fa-chevron-left"></i>
+                    </a>
+                    <a class="next right">
+                        <i class="fa fa-chevron-right"></i>
+                    </a>
+                </div>
+                <!-- Navigation ENd -->
+            </div>
+        </div> <!-- Row End -->
+    </section>*@
+<!-- Section Testimonial End -->
+<!-- Testimonial Area End -->
+<!-- Client Carousel Start -->
+@*<section id="client">
+        <div class="container">
+            <!-- <h2 class="text-center wow slideInLeft"> Our Respectable client</h2> -->
+            <div class="row wow fadeInLeft">
+                <div id="client-carousel" class="col-sm-12 owl-carousel owl-theme text-center client-carousel">
+                    <div class="item client_logo">
+                        <a href="#">
+                            <img src="~/images/clients/client1.png" alt="client" class="img-responsive">
+                        </a>
+                    </div>
+                    <div class="item client_logo">
+                        <a href="#">
+                            <img src="~/images/clients/client2.png" alt="client" class="img-responsive">
+                        </a>
+                    </div>
+                    <div class="item client_logo">
+                        <a href="#">
+                            <img src="~/images/clients/client3.png" alt="client" class="img-responsive">
+                        </a>
+                    </div>
+                    <div class="item client_logo">
+                        <a href="#">
+                            <img src="~/images/clients/client4.png" alt="client" class="img-responsive">
+                        </a>
+                    </div>
+                    <div class="item client_logo">
+                        <a href="#">
+                            <img src="~/images/clients/client5.png" alt="client" class="img-responsive">
+                        </a>
+                    </div>
+                    <div class="item client_logo">
+                        <a href="#">
+                            <img src="~/images/clients/client6.png" alt="client" class="img-responsive">
+                        </a>
+                    </div>
+                    <div class="item client_logo">
+                        <a href="#">
+                            <img src="~/images/clients/client7.png" alt="client" class="img-responsive">
+                        </a>
+                    </div>
+                    <div class="item client_logo">
+                        <a href="#">
+                            <img src="~/images/clients/client8.png" alt="client" class="img-responsive">
+                        </a>
+                    </div>
+                </div><!-- Owl carousel end -->
+            </div><!-- Main row end -->
+        </div>
+    </section>*@
+<!-- Client Carousel End -->
+<!-- Conatct Area Start-->
+@*<section id="faculties">
+    <div class="container">
+        @Html.Partial("Faculties", Model)
+    </div>
+</section>
+<section id="service">
+    <div class="container">
+        @Html.Partial("Courses", Model)
+    </div>
+</section>
+<section id="contact">
+    <div class="container">
+        @Html.Partial("AddUser")
+    </div>
+</section>
+<section id="about">
+    <div class="container">
+        @Html.Partial("AboutUs", Model)
+    </div>
+</section>*@
+
+@*<div id="g-map" class="no-padding">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="map" id="map"></div>
+        </div>
+    </div>
+</div>*@

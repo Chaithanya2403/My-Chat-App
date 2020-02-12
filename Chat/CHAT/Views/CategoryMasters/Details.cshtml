@@ -1,0 +1,35 @@
+﻿@model BussinessLayer.CategoryMaster
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/CommonLayout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>CategoryMaster</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CategoryName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CategoryName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CategoryOverview)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CategoryOverview)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

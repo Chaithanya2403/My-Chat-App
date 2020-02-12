@@ -1,0 +1,23 @@
+﻿<div>
+    @using (Html.BeginForm("Login", "Home", FormMethod.Post))
+    {
+        <div class="form-horizontal">
+            <div class="form-group">
+                <div class="col-lg-12">
+                    <input type="text" name="username" placeholder="Enter Username" id="username" class="form-control" />
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-lg-12">
+                    <input type="password" name="password" placeholder="Enter Password" id="password" class="form-control" />
+                </div>
+            </div>
+            <input type="submit" id="Submit" value="Login" class="btn btn-success" />
+            <div style="color:black;">
+
+            </div>
+           
+        </div>
+    }
+    @*<form action="\Home\Login" method="post"></form>*@
+</div>
